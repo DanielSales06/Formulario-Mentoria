@@ -35,7 +35,7 @@ Um site para desktop feito com HTML e CSS básicos. Esse projeto faz parte da Ro
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]https://www.figma.com/file/p96DAuJed3FL4mVpr7tVvH/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/p96DAuJed3FL4mVpr7tVvH/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
